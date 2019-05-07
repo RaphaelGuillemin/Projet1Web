@@ -1,0 +1,176 @@
+/* Travail de Laura Begin et Raphael Guillemin */
+
+body {
+    color: #373735;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+p {
+    margin:0;
+    padding:0;
+}
+
+.text{
+    margin:0;
+    padding:50px;
+}
+
+.text2{
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.imgcliquable {
+    height: 600px;
+    width: 850px;
+    padding-left: 325px;
+    
+}
+
+.images{
+    text-align: center;
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.apropos{
+    padding: 50px;
+    padding-top: 1px
+}
+
+nav {
+    font-size: 150%;
+    font-weight: lighter;
+    background-color: #F6F0F3;
+    text-align: right;
+    word-spacing: 2em;
+    background-image: url(Images/logo.jpg);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 25px;
+    border: 0px;
+}
+
+nav a { 
+    word-spacing: normal;
+    text-decoration: none;
+    font-weight: bold;
+    color:#6CA72A;
+}
+
+h1 {
+    color: #f6f0f3;
+    font-size: 450%;
+    font-weight: bolder;
+    text-align: center;
+    margin:0px;
+    padding-top: 100px;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 250px;
+    padding-top: 20px;
+    margin: 0px;
+}
+h2 a {
+    color: #f6f0f3;
+    font-style: italic;
+    background-color: rgba(200, 200, 200, 0.5);
+    border:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-family: Georgia, serif;
+    font-size: 100%;
+    text-decoration: none;
+    
+}
+h3 {
+    text-align: center;
+    font-size: 125%;
+    color : #6CA72A;
+    margin-bottom:10px;
+}
+
+h4{
+    font-size: 250%;
+    margin:15px;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+main {
+    font-size: 150%;
+    background-color:#fefefe;
+    padding: 2px;
+}
+
+#image {
+    background-image: url(Images/nourriture.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.figure1{
+    height: 425px;
+    width: 600px;
+    padding: 30px;
+    padding-right:60px;
+    border: 20px;
+    float: left;
+
+
+}
+
+.liste{
+    color: #6CA72A;
+    font-size: 150%;
+}
+
+.liste1{
+    color: #6CA72A;
+    font-size: 150%;
+    padding-left:40px;
+}
+
+span {
+    color: #6CA72A;
+    font-size: 115%;
+}
+.span2{
+    font-weight: bold;
+    font-size: 100%;
+}
+footer {
+    text-align: center;
+    font-size: 100%;
+    padding-bottom: 5px;
+}
+
+.nom{
+    color: #373735;
+    padding-bottom:50px;
+    text-align: center;
+
+}
+
+.lien{
+    color: #373735;
+}
+
+#wrapper { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+    background-color: #ffffff;
+    box-shadow:2px 2px 2px #222222;
+}
+
